@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "puppeteer": "^24.4.0"
+  },
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
